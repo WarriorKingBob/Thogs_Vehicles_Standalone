@@ -1,10 +1,10 @@
 [
   {
     "type": "MOD_INFO",
-    "id": "Thogs_Vehicles",
-    "name": "Thog's Vehicles",
-    "authors": [ "Thog/Caninmyham" ],
-    "description": "Adds a ton of vehicles, ranging from military and civilian grade aircraft to a huge variety of cars, trucks, military vehicles and even watercraft.",
+    "id": "Thogs_Vehicles_Standalone",
+    "name": "Thog's Vehicles Standalone",
+    "authors": [ "Thog/Caninmyham", "WarriorKingBob" ],
+    "description": "Adds a ton of vehicles, ranging from military and civilian grade aircraft to a huge variety of cars, trucks, military vehicles and even watercraft. Do not require Thog's Things.",
     "category": "misc_additions",
     "dependencies": [ "bn" ],
     "obsolete": false
