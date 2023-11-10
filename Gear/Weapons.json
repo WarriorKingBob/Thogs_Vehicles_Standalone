@@ -1,26 +1,6 @@
 
 [
   {
-    "id": "holster",
-    "type": "ARMOR",
-    "name": { "str": "holster" },
-    "description": "A leather strap worn on the hip for holding pistol sized guns.  Activate to holster/draw a gun.",
-    "weight": "220 g",
-    "volume": "500 ml",
-    "price": 9000,
-    "price_postapoc": 500,
-    "material": [ "leather" ],
-    "symbol": "[",
-    "looks_like": "sheath",
-    "color": "light_gray",
-    "covers": [ "leg_either" ],
-    "coverage": 2,
-    "encumbrance": 2,
-    "material_thickness": 1,
-    "use_action": { "type": "holster", "max_volume": "800 ml", "min_volume": "300 ml", "skills": [ "pistol", "smg", "shotgun", "launcher" ] },
-    "flags": [ "WAIST", "OVERSIZE" ]
-  },
-  {
     "type": "ammunition_type",
     "id": "military_micromissile",
     "name": "military-grade micromissile",
