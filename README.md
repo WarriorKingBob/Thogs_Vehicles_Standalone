@@ -1,7 +1,7 @@
 # Thogs_Vehicles_Standalone
-Mod for CDDA-BN, adding a huge variety of aircraft, watercraft, and ground-based vehicles of both the military and civilian variety, ranging from compact urban cars to gyrocopters, experimental military aircraft, and a litany of new solar and alternatively powered options. Modified from Thog's vehicles to be standalone. This version removes most of the new gear from Thogs Things and keeps all new vehicle parts. New professions are kept for those that like to roleplay.
+Mod for CDDA-BN, adding a huge variety of aircraft, watercraft, and ground-based vehicles of both the military and civilian variety, ranging from compact urban cars to gyrocopters, experimental military aircraft, and a litany of new solar and alternatively powered options. Modified from Thog's vehicles to be standalone. This version removes all the new gear from Thogs Things and keeps the mod strictly vehicle based. New professions are kept for those that like to roleplay.
 
-The Rocket Rifle and its variants are kept as an alternative to the crude rocket launcher.
+The Rocket Rifle and its variants are kept as a portable way to fire micromissile and as an alternative to the crude rocket launcher.
 
 ![pic4](https://i.imgur.com/XKZbr4G.png)
 ![pic1](https://i.imgur.com/0li0xqH.png)
