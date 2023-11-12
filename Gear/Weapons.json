@@ -533,15 +533,4 @@
     "breaks_into": [ { "item": "scrap", "count": 85 }, { "item": "steel_chunk", "count": 8 }, { "item": "steel_lump", "count": 5 } ],
     "requirements": { "install": { "skills": [ [ "mechanics", 3 ], [ "launcher", 5 ] ] }, "removal": { "skills": [ [ "mechanics", 3 ], [ "launcher", 5 ] ] } }
   },
-{
-    "id": "mounted_calico",
-    "copy-from": "turret",
-    "type": "vehicle_part",
-    "name": { "str": "mounted Calico 9mm SMG" },
-    "item": "calico",
-    "color": "cyan",
-    "broken_color": "cyan",
-    "breaks_into": [ { "item": "scrap", "count": 25 }, { "item": "steel_chunk", "count": 5 }, { "item": "steel_lump", "count": 5 } ],
-    "requirements": { "install": { "skills": [ [ "mechanics", 3 ], [ "smg", 2 ] ] }, "removal": { "skills": [ [ "mechanics", 2 ] ] } }
-  }
 ]
