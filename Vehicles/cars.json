@@ -3535,11 +3535,14 @@
       {
         "y": 1,
         "x": 2,
-        "parts": [ "turret_mount", { "part": "mounted_calico", "ammo": 100, "ammo_qty": [ 26, 50 ] } ]
+        "parts": [ "turret_mount", { "part": "m249", "ammo": 100, "ammo_qty": [ 28, 305 ] } ]
       },
       { "x": -2, "y": 2, "parts": [ "wheel_mount_medium", "wheel_wide" ] }
     ],
-    "items": [ { "x": -1, "y": 1, "chance": 75, "magazine": 100, "ammo": 50, "item_groups": [ "guns_cop" ] } ]
+    "items": [ 
+	{ "x": -1, "y": 1, "chance": 75, "magazine": 100, "ammo": 50, "item_groups": [ "guns_cop" ] },
+	{ "x": 0, "y": 1, "chance": 75, "magazine": 100, "ammo": 50, "items": [ "calico" ] }
+    ]
   },
   {
     "id": "semi_truck_with_trailer",
