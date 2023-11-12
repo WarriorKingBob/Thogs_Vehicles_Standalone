@@ -1,7 +1,7 @@
 # Thogs_Vehicles_Standalone
 Mod for CDDA-BN, adding a huge variety of aircraft, watercraft, and ground-based vehicles of both the military and civilian variety, ranging from compact urban cars to gyrocopters, experimental military aircraft, and a litany of new solar and alternatively powered options. Modified from Thog's vehicles to be standalone. This version removes all the new gear from Thogs Things and keeps the mod strictly vehicle based. New professions are kept for those that like to roleplay. The Rocket Rifle and its variants are kept as a portable way to fire micromissile and as an alternative to the crude rocket launcher.
 
-Changes and fixes from original mod:
+Changes and fixes from caninmyham's original mod:
 - All armor and clothing are removed, no longer requires Thog's Things as dependancy.
 - Rocket handcannon recipe fixed, now requires the Rocket Rifle as a component instead of nothing
 - Mounted Calico M960 on Spy car changed to M249. An SMG is too weak for pursuing enemy vehicles, plus this eliminates conflict with Blazemod. Calico M960 now have a high chance of spawning in the car.
