@@ -89,6 +89,8 @@ New Boat:
 - Motorized Fishing Boat (Large 1-Cylinder Gas Engine)
 - Racing Boat (V8 Gas Engine)
 
+More details can be found in the "Addtions Details" document.
+
 Previews:
 ![pic4](https://i.imgur.com/XKZbr4G.png)
 ![pic1](https://i.imgur.com/0li0xqH.png)
