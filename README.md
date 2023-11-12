@@ -4,7 +4,7 @@ Mod for CDDA-BN, adding a huge variety of aircraft, watercraft, and ground-based
 Changes and fixes from caninmyham's original mod:
 - All armor and clothing are removed, no longer requires Thog's Things as dependancy.
 - Rocket handcannon recipe fixed, now requires the Rocket Rifle as a component instead of nothing
-- Mounted Calico M960 on Spy car changed to M249. An SMG is too weak for pursuing enemy vehicles, plus this eliminates conflict with Blazemod. Calico M960 now have a high chance of spawning in the car.
+- Mounted Calico M960 on Spy car changed to M249. An SMG is too weak as a front mounted hidden gun, plus this eliminates conflict with Blazemod. Calico M960 instead have a high chance of spawning in the passenger's seat.
 
 New Vehicles Parts:
 - Tiny Civilian Rotors (very light, very small)
