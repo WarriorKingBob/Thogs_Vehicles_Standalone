@@ -3454,7 +3454,6 @@
       { "x": 0, "y": 0, "part": "seat_leather" },
       { "x": 0, "y": 0, "part": "seatbelt" },
       { "x": 0, "y": 0, "part": "controls" },
-      { "x": 0, "y": 0, "part": "turret_controls" },
       { "x": 0, "y": 0, "part": "dashboard" },
       { "x": 0, "y": 0, "part": "vehicle_clock" },
       { "x": 0, "y": 0, "part": "vehicle_alarm" },
@@ -3538,6 +3537,7 @@
         "x": 2,
         "parts": [ "turret_mount", { "part": "m249", "ammo": 100, "ammo_qty": [ 28, 305 ] } ]
       },
+      { "y": 1, "x": 2, "part": "controls_turret" },
       { "x": -2, "y": 2, "parts": [ "wheel_mount_medium", "wheel_wide" ] }
     ],
     "items": [ 
