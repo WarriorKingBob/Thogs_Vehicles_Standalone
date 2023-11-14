@@ -6,7 +6,7 @@
     "authors": [ "Thog/Caninmyham", "WarriorKingBob" ],
     "description": "Adds a ton of vehicles, ranging from military and civilian grade aircraft to a huge variety of cars, trucks, military vehicles and even watercraft. Do not require Thog's Things.",
     "category": "misc_additions",
-    "dependencies": [ "bn" ],
+    "dependencies": [ "bn", "Thog's Things" ],
     "obsolete": false
   }
 ]
