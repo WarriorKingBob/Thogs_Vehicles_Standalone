@@ -1,8 +1,8 @@
-# Thogs_Vehicles_Standalone
-Mod for CDDA-BN, adding a huge variety of aircraft, watercraft, and ground-based vehicles of both the military and civilian variety, ranging from compact urban cars to gyrocopters, experimental military aircraft, and a litany of new solar and alternatively powered options. Modified from Thog's vehicles to be standalone. This version removes all the new gear from Thogs Things and keeps the mod strictly vehicle based. New professions are kept for those that like to roleplay. The Rocket Rifle and its variants are kept as a portable way to fire micromissile and as an alternative to the crude rocket launcher.
+# Thogs_Vehicles_Fixed
+Mod for CDDA-BN, adding a huge variety of aircraft, watercraft, and ground-based vehicles of both the military and civilian variety, ranging from compact urban cars to gyrocopters, experimental military aircraft, and a litany of new solar and alternatively powered options. This version just fixes bugs from caninmyham
 
 Changes and fixes from caninmyham's original mod:
-- All armor and clothing are removed, no longer requires Thog's Things as dependancy.
+- Adds Thog's Things as dependancy.
 - Rocket handcannon recipe fixed, now requires the Rocket Rifle as a component instead of nothing
 - Mounted Calico M960 on Spy car changed to M249. An SMG is too weak as a front mounted hidden gun, plus this eliminates conflict with Blazemod. Calico M960 instead have a high chance of spawning in the passenger's seat.
 
@@ -14,18 +14,35 @@ New Vehicles Parts:
 - Mounted Makeshift “Harmonica” Rocket Rack (5x2 micromissile pod, can be crafted or found on survivor modified skylark.)
 
 New Weapons & Ammo:
-- Narrenkanone (four-barreled homemade rocket launcher, best used on vehicle mounts)
-- Homemade High-velocity Finned Rocket (More damage, range and accuracy than regular HM  HE rockets, but can only be fired from Narrenkanone and are more expensive to make)
-- Low-Yield Homemade High-velocity Finned Rocket (Less damage, range and radius, but .7x  cost)
-- Makeshift Rocket Rifle (Low-grade makeshift launcher firing makeshift micromissiles, with  decent range, but innacurate. Faster to load than a normal launcher, good for training)
-- Rocket Hand Cannon (Essentially sawn-off Rocket Rifle, a little bit faster to reload and small  enough to fit in a holster, but very inaccurate and slightly louder.)
-- Reinforced Rocket Rifle (Can fire both makeshift micromissiles and military-grade micromissiles, which have much more range and damage, but it’s heavier and reloads more slowly in exchange for more accuracy)
-- Revolving Rocket Rifle (Can only fire makeshift micromissiles, but can hold six and fire in quick succession.)
-- Makeshift Explosive Micromissile (Not very strong or accurate, but are made in batches of 2 and are relatively cheap to make, and have a decent range.)
-- Makeshift Incendiary Micromissile (Creates a small fire where it lands, along with AOE damage. Made in batches of 2, using Napalm)
-- Makeshift Black Powder Micromissile (Alternative loading, equal to standard Explosive in all regards but weaker damage profile.)
-- Makeshift Micromissile Slug (More accurate but shorter ranged than other makeshift micromissile variants, and doesn’t require powder)
-- Military Explosive Micromissile (Much more accurate and considerably stronger than any makeshift micromissiles, but can only be fired from missile pod and reinforced rifle.)
+- Narrenkanone
+- Homemade High-velocity Finned Rocket
+- Low-Yield Homemade High-velocity Finned Rocket
+- Makeshift Rocket Rifle
+- Rocket Hand Cannon
+- Reinforced Rocket Rifle
+- Revolving Rocket Rifle
+- Makeshift Explosive Micromissile
+- Makeshift Incendiary Micromissile
+- Makeshift Black Powder Micromissile
+- Makeshift Micromissile Slug
+- Military Explosive Micromissile
+- Ballistic Rod Rifle
+- Ballistic Rod Rotary Gun
+- Rebar rod rifle round
+- Black-powder paper-cased rebar rod rifle round
+
+New Gear:
+- Low-grade Kevlar Vest
+- Tactical Kevlar Vest
+- Flak Vest
+- Tactical Flak Vest
+- Ultralight Carrier
+- Low-grade Ultralight Carrier
+- Premium Ultralight Carrier
+- Flak Helmet
+- Army Spring Jacket
+- Tactical Blouse
+- (+EDIT+) Tactical Full Helmet
 
 New Cars (Civilian & Military):
 - Solar Electric Moped (Electric Motor)
