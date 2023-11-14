@@ -1,6 +1,26 @@
 
 [
   {
+    "id": "holster",
+    "type": "ARMOR",
+    "name": { "str": "holster" },
+    "description": "A leather strap worn on the hip for holding pistol sized guns.  Activate to holster/draw a gun.",
+    "weight": "220 g",
+    "volume": "500 ml",
+    "price": 9000,
+    "price_postapoc": 500,
+    "material": [ "leather" ],
+    "symbol": "[",
+    "looks_like": "sheath",
+    "color": "light_gray",
+    "covers": [ "leg_either" ],
+    "coverage": 2,
+    "encumbrance": 2,
+    "material_thickness": 1,
+    "use_action": { "type": "holster", "max_volume": "800 ml", "min_volume": "300 ml", "skills": [ "pistol", "smg", "shotgun", "launcher" ] },
+    "flags": [ "WAIST", "OVERSIZE" ]
+  },
+  {
     "type": "ammunition_type",
     "id": "military_micromissile",
     "name": "military-grade micromissile",
@@ -141,8 +161,7 @@
     "difficulty": 2,
     "time": "0 h 15 m",
     "book_learn": [ [ "manual_launcher", 1 ] ],
-    "qualities": [ { "id": "SAW_M", "level": 2 } ],
-    "components": [ [ "MakeshiftRocketRifle", 1 ] ]
+    "qualities": [ { "id": "SAW_M", "level": 2 } ]
   },
 {
     "type": "recipe",
@@ -533,4 +552,15 @@
     "breaks_into": [ { "item": "scrap", "count": 85 }, { "item": "steel_chunk", "count": 8 }, { "item": "steel_lump", "count": 5 } ],
     "requirements": { "install": { "skills": [ [ "mechanics", 3 ], [ "launcher", 5 ] ] }, "removal": { "skills": [ [ "mechanics", 3 ], [ "launcher", 5 ] ] } }
   },
+{
+    "id": "mounted_calico",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted Calico 9mm SMG" },
+    "item": "calico",
+    "color": "cyan",
+    "broken_color": "cyan",
+    "breaks_into": [ { "item": "scrap", "count": 25 }, { "item": "steel_chunk", "count": 5 }, { "item": "steel_lump", "count": 5 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 3 ], [ "smg", 2 ] ] }, "removal": { "skills": [ [ "mechanics", 2 ] ] } }
+  }
 ]
