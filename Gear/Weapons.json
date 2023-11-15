@@ -162,7 +162,7 @@
     "time": "0 h 15 m",
     "book_learn": [ [ "manual_launcher", 1 ] ],
     "qualities": [ { "id": "SAW_M", "level": 2 } ],
-    "components": [ [ "MakeshiftRocketRifle", 1 ] ]
+    "components": [ [[ "MakeshiftRocketRifle", 1 ]] ]
   },
 {
     "type": "recipe",
